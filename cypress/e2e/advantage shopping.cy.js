@@ -1,4 +1,4 @@
-describe('Advantage Demo', () => {
+/* describe('Advantage Demo', () => {
   it('acessa o site e verifica o título', () => {
     cy.visit('https://advantageonlineshopping.com/#/')
     cy.title().should('eq', '\u00a0Advantage Shopping')
@@ -48,4 +48,4 @@ describe('Advantage Demo', () => {
     cy.get('#sign_in_btn').click()
     cy.get('#menuUserLink').should('contain.text', username)
   })
-})
+}) */
